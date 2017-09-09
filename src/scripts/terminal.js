@@ -1,7 +1,7 @@
 const outputToTerminal = () => {
   const message = `
     <p>This is just a landing page.</p>
-    <p><strong>No really</strong>
+    <p><strong>No, really.</strong>
     All the good stuff is squirreled away in projects.
     Some of it's still in my head, yet to be realized.</p>
     <p>I code stuff. Mostly backend stuff you'll never notice.</p>
