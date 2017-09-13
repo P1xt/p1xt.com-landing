@@ -17,7 +17,7 @@ const outputToTerminal = () => {
       you can find me (as P1xt) on
       <a href='https://twitter.com/P1xt' target='_blank'>Twitter</a>,
       <a href='https://github.com/P1xt' target='_blank'>GitHub</a> and
-      <a href='https://twitter.com/P1xt' target='_blank'>Medium</a>.</p>
+      <a href='https://medium.com/@P1xt' target='_blank'>Medium</a>.</p>
     <br>
     <p>Have a great day - go code something cool :D</p>
   `;
